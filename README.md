@@ -1,0 +1,1 @@
+# standart_detect_video
