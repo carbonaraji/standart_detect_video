@@ -25,18 +25,19 @@
 Для работы проекта вам понадобится **Python 3.8+**.
 
 ### 1. Клонируйте репозиторий
-git clone https://github.com/ваш-username/ваш-репозиторий.git
-cd ваш-репозиторий
-
+git clone https://github.com/carbonaraji/standart_detect_video
 
 ### 2. Создайте виртуальное окружение (рекомендуется)
-bash
+
 python -m venv venv
+
 source venv/bin/activate        # Linux / macOS
+
 venv\Scripts\activate           # Windows
+
 ### 3. Установите зависимости
 Все необходимые библиотеки уже прописаны в файле requirements.txt. Просто выполните:
-bash
+
 pip install -r requirements.txt
 <details>
 <summary>📄 Содержимое <code>requirements.txt</code></summary>
