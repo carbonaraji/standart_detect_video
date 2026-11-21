@@ -101,7 +101,7 @@ results = model.predict(
 Закоммитьте изменения (git commit -m 'Add some AmazingFeature')
 Запушьте в ветку (git push origin feature/AmazingFeature)
 Откройте Pull Request
-📄 Лицензия
+📄 Лицензия.
 Распространяется под лицензией MIT. Подробнее см. в файле LICENSE.
 <div align="center">
 <b>⭐ Не забудьте поставить звезду репозиторию, если проект был полезен! ⭐</b>
